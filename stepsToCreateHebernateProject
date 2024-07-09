@@ -4,7 +4,7 @@
 * Next Enter groupId name is Project Name(Hibernate crud operations)
 * open Pom.xml file add two dependencies in dependencies tag that dependencies are
   (mysql-connector-j) (org.hibernate.orm)
-* for dependencies we need to go chore and search for Maven Repository website 
+* for dependencies we need to go chorme and search for Maven Repository website 
   search in that website like( mysql-connector-j and org.hibernate.orm)click the on the dependency copy 
   paste in out pom.xml file 
 * Coming to Persistence.xml we need to create one folder and folder name is METO-INF in 
