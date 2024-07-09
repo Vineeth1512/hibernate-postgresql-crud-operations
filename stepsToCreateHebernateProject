@@ -11,6 +11,9 @@
    src/main/resources in that folder again create one file name should be  Persistence.xml
  
 * coming to coding we need create four package names like com.example.DTO,DAO ,service , controller 
-   
+
+* EntityManagerFactory emf = Persistence.createEntityManagerFactory("vineeth");
+*In the bracket of ()" vineeth" name is comes from <persistence-unit name="vineeth"> of Persistence.xml file.
+* both should be same
  
  
